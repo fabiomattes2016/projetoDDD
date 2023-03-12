@@ -1,0 +1,15 @@
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\bin\Debug\net6.0\Projeto.Domain.deps.json
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\bin\Debug\net6.0\Projeto.Domain.dll
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\bin\Debug\net6.0\Projeto.Domain.pdb
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\bin\Debug\net6.0\Projeto.Entities.dll
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\bin\Debug\net6.0\Projeto.Entities.pdb
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\Projeto.Domain.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\Projeto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\Projeto.Domain.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\Projeto.Domain.csproj.CopyComplete
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\Projeto.Domain.dll
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\refint\Projeto.Domain.dll
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\Projeto.Domain.pdb
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Domain\obj\Debug\net6.0\ref\Projeto.Domain.dll

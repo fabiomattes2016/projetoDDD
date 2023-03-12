@@ -1,0 +1,12 @@
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\bin\Debug\net6.0\Projeto.Entities.deps.json
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\bin\Debug\net6.0\Projeto.Entities.dll
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\bin\Debug\net6.0\Projeto.Entities.pdb
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\Projeto.Entities.csproj.AssemblyReference.cache
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\Projeto.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\Projeto.Entities.AssemblyInfoInputs.cache
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\Projeto.Entities.AssemblyInfo.cs
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\Projeto.Entities.dll
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\refint\Projeto.Entities.dll
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\Projeto.Entities.pdb
+C:\Users\Fabio\Documents\Projetos\CSharp\Projeto\Projeto.Entities\obj\Debug\net6.0\ref\Projeto.Entities.dll
