@@ -21,6 +21,15 @@ namespace Projeto.Tests.Services.Messages
         [Fact(DisplayName = "AddMessage: 01 - Deve utilizar _messageRepository.Add")]
         public async Task AddMessage01()
         {
+            Message message = GenerateMessage();
+
+            await _messageService.Adicionar(message);
+
+            _messageRepository.Verify(m => m.Add(message), Times.Once);
+        }
+
+        private Message GenerateMessage()
+        {
             int Id = 1;
             string Titulo = "Teste";
             bool Ativo = true;
@@ -38,9 +47,7 @@ namespace Projeto.Tests.Services.Messages
                 UserId = UserId
             };
 
-            await _messageService.Adicionar(message);
-
-            _messageRepository.Verify(m => m.Add(message), Times.Once);
+            return message;
         }
     }
 }
