@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.API", "Projeto.API\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto.Tests", "Projeto.Tests\Projeto.Tests.csproj", "{2CF79EF7-D9C0-4A95-9AA1-812A35454DB3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Web", "6 - Web", "{3C604F36-5141-4293-82D2-D8C5A4CDD9BB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Presentation", "6 - Presentation", "{3C604F36-5141-4293-82D2-D8C5A4CDD9BB}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Projeto.WebApp", "Projeto.WebApp\Projeto.WebApp.esproj", "{4B29172C-9328-4088-99AC-4BB0E93B6624}"
 EndProject
