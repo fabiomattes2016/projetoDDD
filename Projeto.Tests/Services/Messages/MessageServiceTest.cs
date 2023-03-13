@@ -19,7 +19,7 @@ namespace Projeto.Tests.Services.Messages
         }
 
         [Fact(DisplayName = "AddMessage: 01 - Deve utilizar _messageRepository.Add")]
-        public async Task AddMessage01()
+        public async void AddMessage01()
         {
             Message message = GenerateMessage();
 
